@@ -11,7 +11,7 @@ This repository contains the Jupyter Notebook for the EA Eye Interview Assessmen
 
 ## Introduction
 
-This Jupyter Notebook serves as the solution and documentation for the EA Eye Interview Assessment Exercise. It includes code, explanations, and any additional resources related to the assessment exercise.
+This Jupyter Notebook serves as the solution and documentation for the East African Eye Interview Assessment Exercise. It includes code, explanations, and any additional resources related to the assessment exercise.
 
 ## Installation
 
